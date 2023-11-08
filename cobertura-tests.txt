@@ -1,0 +1,3 @@
+Tive um problema nessa atividade, pois ao adicionar o plugin do jacoco no pom.xml e executar o mvn verify, percebi que não está criando o relatório de cobertura de testes, da mesma forma que criou no projeto anterior.
+
+Logo, só cosegui fazer parte dessa tarefa, do fork no repositório geral, da inserção da dependência, e do pull request, tentei de várias formas gerar o relatório do jacoco mas não deu certo.
